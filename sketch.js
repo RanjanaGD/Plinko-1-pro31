@@ -30,7 +30,6 @@ division5=new Division(320,640,10,300)
 division6=new Division(400,640,10,300)
 division7=new Division(4,640,10,300)
 division8=new Division(475,640,10,300)
-plinkos=new Plinko(100,100,40)
 
 
 
@@ -52,7 +51,7 @@ division5.display();
 division6.display();
 division7.display();
 division8.display();
-plinkos.display();
+
 
   drawSprites();
 }
